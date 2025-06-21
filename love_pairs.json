@@ -1,0 +1,410 @@
+[
+  {
+    "name1": "Thilakshi",
+    "name2": "Pasindu",
+    "score": 97.46889667953741,
+    "timestamp": "2025-06-21 15:06:17"
+  },
+  {
+    "name1": "Gayan",
+    "name2": "Bimali",
+    "score": 100,
+    "timestamp": "2025-06-21 15:07:16"
+  },
+  {
+    "name1": "Dilusha",
+    "name2": "Charindu",
+    "score": 95.71195535189692,
+    "timestamp": "2025-06-21 15:12:56"
+  },
+  {
+    "name1": "Nuwandhara",
+    "name2": "Sandharuwan",
+    "score": 100,
+    "timestamp": "2025-06-21 15:43:12"
+  },
+  {
+    "name1": "Nuwandhara",
+    "name2": "Sandharuwan",
+    "score": 96.92482008983876,
+    "timestamp": "2025-06-21 15:43:31"
+  },
+  {
+    "name1": "Kasuni",
+    "name2": "Harsh",
+    "score": 86.95649007276434,
+    "timestamp": "2025-06-21 15:44:41"
+  },
+  {
+    "name1": "Kasuni",
+    "name2": "Harsha",
+    "score": 100,
+    "timestamp": "2025-06-21 15:44:46"
+  },
+  {
+    "name1": "Kasuni",
+    "name2": "Harsha",
+    "score": 100,
+    "timestamp": "2025-06-21 15:45:05"
+  },
+  {
+    "name1": "Thilakshi",
+    "name2": "Suren",
+    "score": 89.52227056360253,
+    "timestamp": "2025-06-21 15:46:26"
+  },
+  {
+    "name1": "Thilakshi",
+    "name2": "Su",
+    "score": 93.25615789393436,
+    "timestamp": "2025-06-21 15:46:39"
+  },
+  {
+    "name1": "Thilakshi",
+    "name2": "Piyumali",
+    "score": 94.60350661352204,
+    "timestamp": "2025-06-21 15:46:51"
+  },
+  {
+    "name1": "Gayan",
+    "name2": "Piyumali",
+    "score": 81.83352023434009,
+    "timestamp": "2025-06-21 15:47:04"
+  },
+  {
+    "name1": "Gayan",
+    "name2": "Piyumi",
+    "score": 92.71407150549777,
+    "timestamp": "2025-06-21 15:47:35"
+  },
+  {
+    "name1": "Piyumi",
+    "name2": "Gayan",
+    "score": 100,
+    "timestamp": "2025-06-21 15:48:05"
+  },
+  {
+    "name1": "Thilakshi",
+    "name2": "Pasindhu",
+    "score": 100,
+    "timestamp": "2025-06-21 16:02:00"
+  },
+  {
+    "name1": "Gayan",
+    "name2": "Bimali",
+    "score": 94.49864002048066,
+    "timestamp": "2025-06-21 16:07:08"
+  },
+  {
+    "name1": "Gayan",
+    "name2": "Bimali",
+    "score": 99.98425036194001,
+    "timestamp": "2025-06-21 16:07:24"
+  },
+  {
+    "name1": "Thilashi",
+    "name2": "Sandamali",
+    "score": 90.01093080618973,
+    "timestamp": "2025-06-21 16:23:56"
+  },
+  {
+    "name1": "Thilashi",
+    "name2": "Sandamali",
+    "score": 88.58757489717266,
+    "timestamp": "2025-06-21 16:24:19"
+  },
+  {
+    "name1": "Thilashi",
+    "name2": "Sandamali",
+    "score": 91.6130592806232,
+    "timestamp": "2025-06-21 16:24:35"
+  },
+  {
+    "name1": "Thilashi",
+    "name2": "Sandamali",
+    "score": 87.77903462127595,
+    "timestamp": "2025-06-21 16:24:55"
+  },
+  {
+    "name1": "Thilashi",
+    "name2": "Sandamali",
+    "score": 93.98165844563901,
+    "timestamp": "2025-06-21 16:29:56"
+  },
+  {
+    "name1": "Thilashi",
+    "name2": "Sandamali",
+    "score": 87.09751878225775,
+    "timestamp": "2025-06-21 16:32:48"
+  },
+  {
+    "name1": "Kalpani",
+    "name2": "Gayan",
+    "score": 78.67784303543812,
+    "timestamp": "2025-06-21 20:31:13"
+  },
+  {
+    "name1": "Kalpani",
+    "name2": "Gayan",
+    "score": 80.63634217950812,
+    "timestamp": "2025-06-21 20:31:29"
+  },
+  {
+    "name1": "Kalpani",
+    "name2": "Gayan",
+    "score": 82.55768893399399,
+    "timestamp": "2025-06-21 20:31:47"
+  },
+  {
+    "name1": "Chalani",
+    "name2": "Miyurangi",
+    "score": 77.54251212925958,
+    "timestamp": "2025-06-21 20:33:15"
+  },
+  {
+    "name1": "Chalani",
+    "name2": "Miyurangi",
+    "score": 78.08041166731257,
+    "timestamp": "2025-06-21 20:33:29"
+  },
+  {
+    "name1": "Chalani",
+    "name2": "Miyurangi",
+    "score": 76.32564416224812,
+    "timestamp": "2025-06-21 20:33:53"
+  },
+  {
+    "name1": "Miyurangi",
+    "name2": "Miyurangi",
+    "score": 97.1059243896769,
+    "timestamp": "2025-06-21 20:34:10"
+  },
+  {
+    "name1": "Chalani",
+    "name2": "Miyurangi",
+    "score": 77.60258470321594,
+    "timestamp": "2025-06-21 20:34:22"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Heshan",
+    "score": 100,
+    "timestamp": "2025-06-21 20:35:54"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Akitha",
+    "score": 87.70488636428362,
+    "timestamp": "2025-06-21 20:36:06"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Kavinda",
+    "score": 95.07563923880319,
+    "timestamp": "2025-06-21 20:36:39"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Heshan",
+    "score": 98.0824160555913,
+    "timestamp": "2025-06-21 20:36:51"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Akitha",
+    "score": 94.65046071837054,
+    "timestamp": "2025-06-21 20:37:12"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Harishanth",
+    "score": 73.40441563361269,
+    "timestamp": "2025-06-21 20:37:39"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Harishanth",
+    "score": 76.85124096930235,
+    "timestamp": "2025-06-21 20:38:00"
+  },
+  {
+    "name1": "Dilusha",
+    "name2": "Samalka",
+    "score": 99.42709314180138,
+    "timestamp": "2025-06-21 20:38:27"
+  },
+  {
+    "name1": "Dilusha",
+    "name2": "Charindhu",
+    "score": 95.64414133317507,
+    "timestamp": "2025-06-21 20:38:39"
+  },
+  {
+    "name1": "Udeshika",
+    "name2": "Chathuranga",
+    "score": 99.7289929930587,
+    "timestamp": "2025-06-21 20:39:23"
+  },
+  {
+    "name1": "Udeshika",
+    "name2": "Chathuranga",
+    "score": 100,
+    "timestamp": "2025-06-21 20:40:10"
+  },
+  {
+    "name1": "Thiranja",
+    "name2": "Vishwa",
+    "score": 91.18772557585677,
+    "timestamp": "2025-06-21 20:41:06"
+  },
+  {
+    "name1": "Thiranja",
+    "name2": "Vishwa",
+    "score": 92.24721189596505,
+    "timestamp": "2025-06-21 20:41:27"
+  },
+  {
+    "name1": "Shalini",
+    "name2": "Malith",
+    "score": 100,
+    "timestamp": "2025-06-21 20:44:51"
+  },
+  {
+    "name1": "Amani",
+    "name2": "Tushan",
+    "score": 89.99049181804568,
+    "timestamp": "2025-06-21 20:45:06"
+  },
+  {
+    "name1": "Chamali",
+    "name2": "Sachintha",
+    "score": 88.03484073335726,
+    "timestamp": "2025-06-21 20:45:29"
+  },
+  {
+    "name1": "Chamali",
+    "name2": "Sachintha",
+    "score": 88.67994841262066,
+    "timestamp": "2025-06-21 20:45:37"
+  },
+  {
+    "name1": "Thiranja",
+    "name2": "Vishwa",
+    "score": 92.91691354733365,
+    "timestamp": "2025-06-21 20:45:55"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Heshan",
+    "score": 98.93369356176798,
+    "timestamp": "2025-06-21 20:46:15"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Akitha",
+    "score": 87.53298522024885,
+    "timestamp": "2025-06-21 20:46:24"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Kavindha",
+    "score": 92.82323653866236,
+    "timestamp": "2025-06-21 20:46:41"
+  },
+  {
+    "name1": "Nishara",
+    "name2": "Harishanth",
+    "score": 74.05090995485641,
+    "timestamp": "2025-06-21 20:46:56"
+  },
+  {
+    "name1": "Kovi",
+    "name2": "Harishanth",
+    "score": 100,
+    "timestamp": "2025-06-21 20:47:05"
+  },
+  {
+    "name1": "Kovi",
+    "name2": "Harishanth",
+    "score": 100,
+    "timestamp": "2025-06-21 20:47:16"
+  },
+  {
+    "name1": "Arthika",
+    "name2": "Kevin",
+    "score": 85.86215486969581,
+    "timestamp": "2025-06-21 20:47:35"
+  },
+  {
+    "name1": "Heshan",
+    "name2": "Naveesha",
+    "score": 100,
+    "timestamp": "2025-06-21 20:48:01"
+  },
+  {
+    "name1": "Heshan",
+    "name2": "Naveesha",
+    "score": 100,
+    "timestamp": "2025-06-21 20:48:07"
+  },
+  {
+    "name1": "Dilusha",
+    "name2": "Charindhu",
+    "score": 100,
+    "timestamp": "2025-06-21 20:48:52"
+  },
+  {
+    "name1": "Bimali",
+    "name2": "Gayan",
+    "score": 100,
+    "timestamp": "2025-06-21 20:49:21"
+  },
+  {
+    "name1": "Thilakshi",
+    "name2": "Theekshana",
+    "score": 100,
+    "timestamp": "2025-06-21 20:49:48"
+  },
+  {
+    "name1": "Anura",
+    "name2": "Ramyalatha",
+    "score": 97.64966360696457,
+    "timestamp": "2025-06-21 20:50:07"
+  },
+  {
+    "name1": "Randi",
+    "name2": "Ramesh",
+    "score": 96.95730908752762,
+    "timestamp": "2025-06-21 20:52:20"
+  },
+  {
+    "name1": "Randi",
+    "name2": "Ramesh",
+    "score": 100,
+    "timestamp": "2025-06-21 20:53:23"
+  },
+  {
+    "name1": "Randi",
+    "name2": "Ramesh",
+    "score": 95.89100352564014,
+    "timestamp": "2025-06-21 20:53:53"
+  },
+  {
+    "name1": "Randi",
+    "name2": "Ramesh",
+    "score": 100,
+    "timestamp": "2025-06-21 20:54:28"
+  },
+  {
+    "name1": "Pabalu",
+    "name2": "Hasarel",
+    "score": 96.68821328664548,
+    "timestamp": "2025-06-21 21:01:50"
+  },
+  {
+    "name1": "Pabalu",
+    "name2": "Hasarel",
+    "score": 99.41529180900078,
+    "timestamp": "2025-06-21 21:01:59"
+  }
+]
